@@ -1,0 +1,38 @@
+.hotel-carousel-container {
+    width: 100%;
+    background-color: black;
+  }
+  .hotel-card-container {
+    height: 500px;
+  }
+  .hotel-card {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+  .no-hotels-message{
+    color: beige;
+  }
+  
+.carousel-container {
+  width: 100%;
+  background-color:rgb(0, 179, 255);
+}
+
+.carousel-item-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  color: white; 
+}
+
